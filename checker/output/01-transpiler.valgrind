@@ -1,0 +1,15 @@
+==10153== Memcheck, a memory error detector
+==10153== Copyright (C) 2002-2022, and GNU GPL'd, by Julian Seward et al.
+==10153== Using Valgrind-3.22.0 and LibVEX; rerun with -h for copyright info
+==10153== Command: ./transpiler
+==10153== Parent PID: 10138
+==10153== 
+==10153== 
+==10153== HEAP SUMMARY:
+==10153==     in use at exit: 0 bytes in 0 blocks
+==10153==   total heap usage: 11 allocs, 11 frees, 9,092 bytes allocated
+==10153== 
+==10153== All heap blocks were freed -- no leaks are possible
+==10153== 
+==10153== For lists of detected and suppressed errors, rerun with: -s
+==10153== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)

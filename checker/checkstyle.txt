@@ -1,0 +1,2 @@
+./src/main.c:200: CHECK:BRACES: braces {} should be used on all arms of this statement
+./src/main.c:257: CHECK:BRACES: braces {} should be used on all arms of this statement
